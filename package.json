@@ -1,0 +1,15 @@
+{
+  "name": "matrixsolver",
+  "version": "1.0.0",
+  "description": "finds the shortest path in a matrix",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bence",
+  "license": "ISC",
+  "dependencies": {
+    "fastpriorityqueue": "^0.2.4",
+    "underscore": "^1.8.3"
+  }
+}
